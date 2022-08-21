@@ -27,6 +27,8 @@ hr{
   font-weight: 700;
   border-radius: 300px;
   text-transform: uppercase;
+  animation: infinite bounce;
+  animation-duration: 3s; 
 }
 .btn-primary{
   background-color: purple;
